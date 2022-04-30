@@ -12,3 +12,6 @@ https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation#
 
 Tesla Stock EDA Dataset from:
 Kaggle
+
+usnewshealth file from:
+https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter
