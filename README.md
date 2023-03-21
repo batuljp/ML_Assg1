@@ -15,3 +15,6 @@ Kaggle
 
 usnewshealth file from:
 https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter
+
+SMS Spam Collection Dataset from:
+https://archive.ics.uci.edu/ml/machine-learning-databases/00228/
